@@ -1,0 +1,12 @@
+[
+    "systemd",
+    "svchost.exe",
+    "wininit.exe",
+    "lsass.exe",
+    "explorer.exe",
+    "chrome",
+    "firefox",
+    "code",
+    "python3",
+    "python"
+]
